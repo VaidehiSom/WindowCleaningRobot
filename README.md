@@ -10,6 +10,3 @@ View 2
 ## Design and Components used
 
 For this information, check [report](./report.pdf)
-
-## Gifs
-![gif](videos/gif1.gif)
